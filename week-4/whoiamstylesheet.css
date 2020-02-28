@@ -1,0 +1,189 @@
+
+body {
+    
+    background-color: #fffdd0;
+}
+
+
+.self-portrait {
+    position: absolute;
+    top: -255px;
+    left: -165px;
+    transform: scale(0.365);
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    position: absolute;
+    top: 8px;
+    left: 37.5px;
+    transform: scale(0.36);
+    margin: 0;
+    padding: 0;
+}
+
+.namechinese {
+    position: absolute;
+    top: -42px;
+    left: 247px;
+    transform: scale(0.365);
+    margin: 0;
+    padding: 0;
+}
+
+.hobbies {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    transform: scale(0.36);
+    margin: 0;
+    padding: 0;
+}
+
+.flag {
+    position: absolute;
+    top: 74px;
+    left: 230px;
+    transform: scale(0.365);
+    margin: 0;
+    padding: 0;
+}
+.birthday {
+    position: absolute;
+    top: 128px;
+    left: 198px;
+    transform: scale(0.365);
+    margin: 0;
+    padding: 0;
+}
+.family {
+    position: absolute;
+    top: 81px;
+    left: 300px;
+    transform: scale(0.361);
+    margin: 0;
+    padding: 0;
+}
+.lived {
+    position: absolute;
+    top: 250px;
+    left: -54px;
+    transform: scale(0.369);
+    margin: 0;
+    padding: 0;
+}
+.lookup {
+    position: absolute;
+    top: 232px;
+    left: 78px;
+    transform: scale(0.368);
+    margin: 0;
+    padding: 0;
+}
+
+.pet {
+    position: absolute;
+    top: 167px;
+    left: -162px;
+    transform: scale(0.245);
+    margin: 0;
+    padding: 0;
+}
+.music {
+    position: absolute;
+    top: 18px;
+    left: 448px;
+    transform: scale(0.99);
+    margin: 0;
+    padding: 0;
+}
+.tv {
+    position: absolute;
+    top: 220px;
+    left: 100px;
+    transform: scale(0.98);
+    margin: 0;
+    padding: 0;
+}
+.fav-book {
+    position: absolute;
+    left: 240px;
+    top: 720px;
+    transform: scale(0.986);
+}
+.sports {
+    position: absolute;
+    left: 448px;
+    top: 726px;
+}
+.color {
+    position: absolute;
+    left: 960px;
+    top: 732px;
+    transform: scale(0.983)
+}
+.movie {
+    position: absolute;
+    top: 728px;
+    left: 960px;
+    transform: scale(0.99);
+}
+
+.fiction {
+    position: absolute;
+    top: 225px;
+    left: 960px;
+    transform: scale(0.99);
+}
+.nasi {
+    position: absolute;
+    top: 14px;
+    left: 960px;
+    transform: scale(0.99);
+}
+.proud {
+    position: absolute;
+    top: -310px;
+    left: -675px;
+    transform: scale(0.988);
+}
+
+.never {
+    position: absolute;
+    top: -300px;
+    left: -670px;
+    transform: scale(0.98);
+}
+.free-time {
+    position: absolute;
+    top: 43px;
+    left: -329px;
+    transform: scale(0.984);
+}
+.bong {
+    position: absolute;
+    top: 620px;
+    left: -668px;
+    transform: scale(0.99);
+}
+.teacher {
+    position: absolute;
+    top: 620px;
+    left: -668px;
+    transform: scale(0.988);
+}
+.childhood {
+    position: absolute;
+    top: 613px;
+    left: -210px;
+    transform: scale(0.99);
+}
+p {
+    position: absolute;
+    left: 240px;
+    top: 20px;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
